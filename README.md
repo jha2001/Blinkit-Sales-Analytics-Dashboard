@@ -51,9 +51,9 @@ The dashboard uses various visualization techniques for a clear and actionable a
   * **DAX** for Calculations
   * **SQL** for data extraction and transformation.
 
-## Files in the Repository
+## 📂 Files in the Repository
    1. Blinkit.pbix - Power BI File
-   2. Dashboard.png - Image of the Dashboard
+   2. Blinkit-Dashboard.png - Image of the Dashboard
    3. README.MD - Documentation
 
 ## 📞Contact
