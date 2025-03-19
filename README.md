@@ -1,4 +1,4 @@
-## 📊 Blinkit Sales Analytics Dashboard
+## 📊 Blinkit Sales Analysis 
 
   This project presents a comprehensive **Power BI Dashboard** for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
    
